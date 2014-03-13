@@ -1,6 +1,8 @@
 stdlib
 =======
 
+[![Build Status](https://travis-ci.org/BitWeb/stdlib.png?branch=master)](https://travis-ci.org/BitWeb/stdlib)
+
 BitWeb library for standard functions.
 
 ### Usage:
