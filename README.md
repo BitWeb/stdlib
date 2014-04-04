@@ -21,4 +21,6 @@ or add following to composer.json
 }
 ```
 
-Happy usage
+### Overview of included classes
+
+TODO
