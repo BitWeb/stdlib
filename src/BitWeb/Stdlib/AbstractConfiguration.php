@@ -37,4 +37,4 @@ abstract class AbstractConfiguration
         }
         return $setter;
     }
-} 
+}
