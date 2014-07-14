@@ -1,6 +1,6 @@
 <?php
 
-namespace BitWeb\Stdlib\Util;
+namespace BitWeb\Stdlib;
 
 class StringUtil
 {
