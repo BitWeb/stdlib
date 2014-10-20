@@ -10,3 +10,6 @@ before_script:
 
 script:
   - phpunit --coverage-text -c test/
+
+after_script:
+  - php vendor/bin/coveralls
