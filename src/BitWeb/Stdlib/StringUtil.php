@@ -226,4 +226,15 @@ class StringUtil
 
         return implode(', ', $traversableOrString);
     }
+
+    /**
+     * Creates a random HEX string using random bytes from openssl.
+     *
+     * @param  int $length
+     * @return string
+     */
+    public static function generateRandomHexString($length)
+    {
+        return bin2hex(openssl_random_pseudo_bytes($length / 2));
+    }
 }
