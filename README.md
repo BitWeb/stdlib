@@ -2,6 +2,7 @@ stdlib
 =======
 
 [![Build Status](https://travis-ci.org/BitWeb/stdlib.png?branch=master)](https://travis-ci.org/BitWeb/stdlib)
+[![Coverage Status](https://img.shields.io/coveralls/BitWeb/stdlib.svg)](https://coveralls.io/r/BitWeb/stdlib)
 
 BitWeb library for standard functions.
 
